@@ -482,6 +482,75 @@ Interface Desenvolvida por brad frost. Ele desenvolveu um modelo mental chamado 
 
 Ou seja todo e qualquer design pode ser destrinchado até chegar a elementos menores e isolados.
 
+o que é design atômico
+O design atômico é uma metodologia para criar sistemas de design. Existem cinco níveis distintos no design atômico:
+
+![image](https://user-images.githubusercontent.com/52088444/184416857-22a01bac-661f-4620-a80a-28a15dad780e.png)
+
+
+Átomos :Os átomos são os blocos de construção básicos da matéria. Aplicados a interfaces web, os átomos são nossas tags HTML, como um rótulo de formulário, uma entrada ou um botão.
+![image](https://user-images.githubusercontent.com/52088444/184416962-2ce7f6ec-e79c-4e5a-9109-6334e7f8196c.png)
+
+Os átomos também podem incluir elementos mais abstratos, como paletas de cores, fontes e aspectos ainda mais invisíveis de uma interface, como animações.
+
+Como os átomos na natureza, eles são bastante abstratos e muitas vezes não são muito úteis por conta própria. No entanto, eles são bons como referência no contexto de uma biblioteca de padrões, pois você pode ver todos os seus estilos globais definidos rapidamente.
+
+Moléculas: As coisas começam a ficar mais interessantes e tangíveis quando começamos a combinar átomos. Moléculas são grupos de átomos ligados entre si e são as menores unidades fundamentais de um composto. Essas moléculas assumem suas próprias propriedades e servem como a espinha dorsal de nossos sistemas de design.
+
+
+Por exemplo, um rótulo de formulário, entrada ou botão não são muito úteis por si só, mas combine-os como um formulário e agora eles podem realmente fazer algo juntos.
+![image](https://user-images.githubusercontent.com/52088444/184417105-c273e0ec-cad0-4520-ba86-d6bf3e77fe47.png)
+
+Construir moléculas a partir de átomos encoraja uma mentalidade de “faça uma coisa e faça bem”. Embora as moléculas possam ser complexas, como regra geral, elas são combinações relativamente simples de átomos construídos para reutilização.
+
+
+
+Organismos: As moléculas nos dão alguns blocos de construção com os quais trabalhar, e agora podemos combiná-los para formar organismos. Organismos são grupos de moléculas unidas para formar uma seção relativamente complexa e distinta de uma interface.
+
+![image](https://user-images.githubusercontent.com/52088444/184417229-a956251e-ab4f-47e5-9dfb-fc390f628138.png)
+
+Estamos começando a ficar cada vez mais concretos. Um cliente pode não estar muito interessado nas moléculas de um sistema de design, mas com organismos podemos ver a interface final começando a tomar forma. Dan Mall (com quem estou trabalhando em vários projetos) usa colagens de elementos , que articulam ideias para alguns organismos-chave para facilitar conversas com clientes e moldar a direção visual (tudo sem ter que construir composições completas).
+
+Os organismos podem consistir em tipos de moléculas semelhantes e/ou diferentes. Por exemplo, um organismo de cabeçalho pode consistir em diversos componentes, como um logotipo, navegação primária, formulário de pesquisa e lista de canais de mídia social. Mas um organismo de “grade de produto” pode consistir na mesma molécula (possivelmente contendo uma imagem do produto, título do produto e preço) repetida várias vezes.
+
+A construção de moléculas para organismos incentiva a criação de componentes autônomos, portáteis e reutilizáveis.
+
+
+
+Modelos: No estágio do modelo, quebramos nossa analogia química para entrar em uma linguagem que faça mais sentido para nossos clientes e nosso resultado final. Os modelos consistem principalmente em grupos de organismos costurados para formar páginas. É aqui que começamos a ver o design se unindo e começamos a ver coisas como o layout em ação.
+
+![image](https://user-images.githubusercontent.com/52088444/184417383-dcc02630-2ed4-45cf-b6b7-8dcf738e3b6c.png)
+
+Os modelos são muito concretos e fornecem contexto para todas essas moléculas e organismos relativamente abstratos. Os modelos também são onde os clientes começam a ver o design final no lugar. Na minha experiência trabalhando com essa metodologia, os modelos começam sua vida como wireframes HTML, mas com o tempo aumentam a fidelidade para se tornarem o produto final. O Bearded Studio em Pittsburgh segue um processo semelhante , onde os designs começam em tons de cinza e sem layout, mas aumentam lentamente a fidelidade até que o design final esteja pronto.
+
+
+Páginas: As páginas são instâncias específicas de modelos. Aqui, o conteúdo do espaço reservado é substituído por conteúdo representativo real para fornecer uma representação precisa do que o usuário verá.
+
+![image](https://user-images.githubusercontent.com/52088444/184417488-d2838105-86e5-491d-b788-ef501565347e.png)
+
+As páginas são o nível mais alto de fidelidade e, por serem as mais tangíveis, normalmente é onde a maioria das pessoas no processo passa a maior parte do tempo e em que a maioria das avaliações gira em torno.
+
+O estágio da página é essencial, pois é onde testamos a eficácia do sistema de design. Visualizar tudo no contexto nos permite voltar para modificar nossas moléculas, organismos e modelos para melhor abordar o contexto real do design.
+
+As páginas também são o local para testar variações nos modelos. Por exemplo, você pode querer articular a aparência de um título contendo 40 caracteres, mas também demonstrar a aparência de 340 caracteres. Como é quando um usuário tem um item no carrinho de compras em vez de 10 itens com um código de desconto aplicado? Novamente, essas instâncias específicas influenciam como voltamos e construímos nosso sistema.
+
+- por que design atômico
+
+De muitas maneiras, é assim que temos feito as coisas o tempo todo, mesmo que não tenhamos pensado conscientemente sobre isso dessa maneira específica.
+
+O design atômico fornece uma metodologia clara para criar sistemas de design. Clientes e membros da equipe são capazes de apreciar melhor o conceito de sistemas de design ao realmente ver as etapas apresentadas à sua frente.
+
+O design atômico nos dá a capacidade de atravessar do abstrato ao concreto. Por isso, podemos criar sistemas que promovam consistência e escalabilidade ao mesmo tempo em que mostram as coisas em seu contexto final. E ao montar em vez de desconstruir, estamos criando um sistema direto do portão, em vez de escolher padrões após o fato.
+
+
+## Acessibilidade Digital
+
+Ser acessivel não é diferencial é minimo.
+
+Falar de acessibilidade é falar de experiencia do usuario. Afinal estamos falandod e pessoas que possuem caracteristicas e vivencias diferentes.
+
+- Desenho Uni
+-é projetar pensando em todos , sem adaptações para um grupo ou publico especifico, é projetar de fato para pessoas independente de idade , situação financeira , e habilidade.
 
 ## Livros
 
@@ -490,3 +559,5 @@ Ou seja todo e qualquer design pode ser destrinchado até chegar a elementos men
  ## Referencias
  
  https://brasil.uxdesign.cc/o-que-%C3%A9-design-emocional-c32d15ec8959
+ 
+ https://bradfrost.com/blog/post/atomic-web-design/
