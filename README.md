@@ -552,6 +552,11 @@ Falar de acessibilidade é falar de experiencia do usuario. Afinal estamos falan
 - Desenho Uni
 -é projetar pensando em todos , sem adaptações para um grupo ou publico especifico, é projetar de fato para pessoas independente de idade , situação financeira , e habilidade.
 
+Outro ponto importante é fornecer acesso, independente do individuo ter algum tipo de defifiencia ou dificuldade.
+
+
+
+
 ## Livros
 
  - Design Emocional - Don Norman
