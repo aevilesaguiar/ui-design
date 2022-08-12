@@ -230,7 +230,257 @@ Entregaveis da Arquiteura da Informação(AI):
 - wireframes
 - 
 
+## Iconografia
 
+A iconografia, como ramo da história da arte, estuda a identificação, descrição e interpretação do conteúdo das imagens: os assuntos retratados, as composições particulares e os detalhes usados ​​para fazê-lo, e outros elementos distintos do estilo artístico.
+
+Icone vem do grego eikon e significa imagem. Muito antes do design os icones já usados  como ferramenta de comunicação. Seu objetivo era comunicar eficientemente uma mensagem através de uma linguagem visual comumente compreendida.
+
+
+
+Por que utilizamos icones, podem se tornar peças chaves para uma boa usabilidade e uma navegação mais intuitiva.
+Torna a interface amigavel, cria um design mais emocional na redução de carga cognitiva.
+
+Onde encontrar icones:
+
+![image](https://user-images.githubusercontent.com/52088444/184405178-1af1150f-90b0-46c4-868f-bccc80fa1d03.png)
+
+## Espaços em tela
+
+Assim como textos precisam de espaço entre eles para melhorar a leitura, assim acontece com os elementos  na interface.
+
+O espaço em tela é muito importante , para que tenhamos uma compreensão. Espaço em branco também é informação
+
+Precisamos de espaços em:
+
+- textos
+- botões
+- logotipos e outros objetos
+
+
+Com o espaço em branco temos uma melhor usabilidade, legibilidade, tempo para pausa . Todos esses itens são importantantes para que possamos compreender a informação
+
+
+## Estruturas da grid
+
+- Coluna(são blocos verticais dentro do layout do grid.São elas que determinam a área onde srá posicionado o conteudo. O numero de colunas geralmente é 4,8,12
+![image](https://user-images.githubusercontent.com/52088444/184406318-e1c254b0-adc4-4bfc-a033-69d784d64ffd.png)
+
+- Gutter: são as colunas em umlayout de grids. A função dele é ajudar a separar e limitar o conteúdo alocado napagina. A largura dos gutters é fixa dentro de um memso breakpoint. Mas em diferentes breakpoints elas podem mudar de tamanho. Ou seja o gutter são os espaços entre as colunas.
+
+
+![image](https://user-images.githubusercontent.com/52088444/184406641-fc0edd15-cfd1-416d-82a2-6470bc4167a5.png)
+
+- Margem: as margens são os espaços laterais á esquerda e á direita do conteudo da página. Assim como os gutters, sua largura é fixa , mas se adapta conforme os diferentes breakpoints.
+![image](https://user-images.githubusercontent.com/52088444/184406917-33257c9e-8d71-4d32-8fb0-b7b69c4de137.png)
+
+- breakponints: são os intervalos de layout pré determinados para diferentes tipos de tamanhos de telas. Nesse sentido existem breakpoints para telas de celular, tablets e desktop.
+
+![image](https://user-images.githubusercontent.com/52088444/184407286-1e2b0e81-8052-49ef-a129-b86ef82027d6.png)
+
+## A importancia dos elemento de GRIS
+São blocos de design , sejam eles contendo texto, imagem ou uma mistura dos dois.
+
+Os elementos de campo são alocados dentro do grid de forma a ficarem alinhados com as colunas e gutters.
+
+Tamanho da grid seria o tamanho das telas de fato, sobre as quais serão alocados os elementos de campo. 
+
+Sendo assim o uso de grids está relacionado a quantidade de pixels de uma tela.
+
+Resoluções mais usadas 960px e 1440px de largura.
+
+
+## Universo mobile
+
+Mobile first
+
+Em 2009 , luke wrobleski escreveu uma peça chamada de mobile first que deu suporte para a escola de pensamento de melhoria progressiva.
+
+Ele explicou que para projetarpara mobile faz você focar nas funções e prioridades mais essenciais, que no final das contas irá liderar para uuma experiencia menos desordenada, atémesmo no software para desktop.
+
+A ideia é simples : projete sua solução primeria para mobile , depois para desktop, assim você irá praticcar o seu poder de sintese e conseguir transmitir as informações necessárias em um espaço reduzido , deixando a navegação mais rápida para o seu usuário focando no que é mais importante.
+
+- iNTERAÇÕES: PRECISAMOS LEMBRAR QUE NÃO EXISTE UM MOUSE no smartphone, interagimos com o toque dos dedos na tela.
+- Além dissso temos diferentes modos de utilizar o smartphone ao logo do dia.
+
+![image](https://user-images.githubusercontent.com/52088444/184409139-535cc552-a012-4209-9112-758f7861190a.png)
+
+Quanto maior o tamanho da tela, mais dificuldades teremos de acessar algumas partes da interface.
+
+Por isso devemos nos atentar ao local onde serão dispostas as informações mais importantes que o usuario irá interagir.
+![image](https://user-images.githubusercontent.com/52088444/184409326-33db58c3-7dbb-45dd-8e6c-bc3dbef4a146.png)
+
+- Formas de interação : além do simples toque , outras formas de interagir com a interface , como o slide e pinça. 
+- Tudo isso precisa ser intendivel e facil de operar, também considerando o contexto em que o ususario irá interagir.
+- ![image](https://user-images.githubusercontent.com/52088444/184409712-20b4e1e6-9ded-467e-a85a-e09c7f10ac64.png)
+
+![image](https://user-images.githubusercontent.com/52088444/184410069-b59d3e47-3800-46df-8648-8617c2a072bb.png)
+
+![image](https://user-images.githubusercontent.com/52088444/184410109-b884d534-302e-42fe-8ea7-fb57774e5ac1.png)
+
+
+## Padrões de estilo
+
+Os diferentes guias de estilo e padrões para um conteudo.
+
+## Style guide
+
+
+O Style Guide — guia de estilo, em tradução livre — é um documento que contempla as diretrizes de design de uma empresa, ou, em menor escala, de um projeto, marca ou produto específico.
+
+Um dos maiores benefícios do Style Guide é a consistência. Por meio desse documento, podemos garantir que qualquer interface tenha os mesmos elementos, o mesmo padrão de cores, tipografia e etc.
+
+Além de garantir a consistência entre diversas interfaces, o Style Guide é uma mão na roda para os designers, já que todas as definições estão oficializadas em um lugar de fácil consulta.
+
+![image](https://user-images.githubusercontent.com/52088444/184411148-ac50d376-f7d7-4010-82c3-83d879c1173d.png)
+![image](https://user-images.githubusercontent.com/52088444/184411298-61c05332-9fbc-448d-ad3e-9c911230c501.png)
+
+beneficios do Style guide:
+
+- estabelece um padrão visual do produto
+- uma visão ampla de todos os elementos necessários para o produto e podendo reutilizar cada um deles
+- Elementos projetados e com uma melhor garantia de uso;
+- Agilidade para o designer  focar na experiencia.
+
+
+Em um ambiente com muitos designers, produtos e projetos, e sem uma diretriz bem definida, cada profissional cria e toma as decisões de design de forma independente; e isso pode ser muito prejudicial, tanto para a empresa quanto para os próprios designers.
+
+Nesse sentido, o Style Guide é necessário para funcionar como fonte da verdade e para documentar todas as definições de design comuns a todos os projetos e times, como por exemplo:
+
+Cores;
+Tipografia;
+Grids e Breakpoints.
+
+
+
+Style Guide e ambientes ágeis
+Por ser um documento que facilita o desenvolvimento da parte visual das interfaces, o Style Guide é uma ferramenta fundamental em ambientes que utilizam a filosofia ágil, Design Sprint ou Lean UX.
+
+Esses conceitos e metodologias valorizam e necessitam da eficiência no desenvolvimento do design, fazendo, portanto, do Style Guide uma ferramenta fundamental para esses processos.
+
+![image](https://user-images.githubusercontent.com/52088444/184410711-77f88f2f-2d06-4339-899d-9253a0fd3749.png)
+
+O Style Guide não é o único guia ou tipo de documento que existe no mundo do design ou, ainda, no mundo corporativo.
+
+Você vai ouvir falar muito sobre outros tipos de documentos como o Design System e o Brand Guidelines.
+
+Para evitar confusão, é importante entender que essas documentações são diferentes entre si. Com isso em mente, vamos abordar rapidamente esses conceitos.
+
+Design System
+O Design System é uma ferramenta mais completa e complexa do que o Style Guide. Nele são contemplados diversos conceitos de design de uma empresa, como:
+
+Propósitos e valores;
+Princípios de design;
+Identidade da marca;
+Componentes, padrões e elementos;
+Diretrizes e regras de uso.
+
+Como regra geral, o Style Guide está dentro do Design System, sendo a parte que trata das diretrizes visuais e estéticas do design. Por outro lado, o Design System dita como que os componentes e elementos funcionais se adequam aos visuais.
+
+
+Brand Guidelines
+O Brand Guidelines é o manual de identidade da marca e, assim como o Style Guide, possui uma preocupação maior com as diretrizes e aspectos visuais da marca.
+
+Apesar dessa semelhança, a principal diferença entre os dois é a flexibilidade. Enquanto o Style Guide é um documento “vivo” onde atualizações podem e devem ser feitas constantemente, o Brand Guidelines é algo estático, com regras e padrões definidos e imutáveis, até que a marca seja atualizada como um todo.
+
+Além disso, o Style Guide é mais abrangente do que o Brand Guidelines, contemplando diretrizes de design como Grids, Breakpoints e sua utilização nos conteúdos da interface. O Brand Guidelines é restrito às regras de uso da marca e não contempla diretrizes de design como um todo.
+
+Como desenvolver um Style Guide?
+Os Style Guides vão variar de empresa para empresa. Não existe uma regra cravada na pedra sobre que o deve estar contemplado dentro desses guias de estilo.
+
+No entanto, um bom Style Guide precisa conter, pelo menos, as informações referentes a:
+
+Cores;
+Tipografia;
+Elementos de UI;
+Layout, Grids e Breakpoints
+
+
+## Como criar um Style Guide
+
+Comece por analisar a solução que está sendo proposta a partir dos wireframes , rabiscoframes e diversos outros entregaveis que contenham elementos de interface. Liste todos os elementos de interface que serão necessários.
+
+A partir das listas de todos os componentes  de interface necess´rios comece a projetá-los. Por exemplos botões, ícones, cores, tipografia, rótulos.
+
+O style guides devem conter todas as características de cada um dos elementos, inicie a prtir dos que são mais importantes, vai facilitar e agilizar no seu MVP.
+
+
+## UI kIT/pATTER
+
+É um conjunto organizador de componentes relacionados e reutilizáveis, geralmente contendo exemplos de código, diretrizes de design e casos de uso.
+Temos uma representação técnica e conceitual para cada componente, auxiliando designers e devs.
+
+Além da camada visual nós temos a representação técnica e conceitual de cada um dos componentes.
+
+![image](https://user-images.githubusercontent.com/52088444/184412639-d7243a72-3956-4a22-a3b3-f399995b612f.png)
+
+ - Resp Tecnica
+ 
+Essa documentação técnica é bem direcionada para desenvolvedores front-end, onde conseguem consumir as caracteristicas tecnicas para recriare o código no produto.
+Geramente quem cria essa documentação é um front-end junto com o time de designers.
+
+![image](https://user-images.githubusercontent.com/52088444/184413085-9cf12187-b450-4d8d-9293-0b28d5f46c36.png)
+
+- Representação conceitual
+Esssa parte complementa a camada visual, nesta documentação estão as regras de uso , descrições sobre os diversos comportamentos , características e atributos de um componente.
+
+![image](https://user-images.githubusercontent.com/52088444/184413360-d6b37d6b-58fe-498a-8544-b68b9ecf4a1a.png)
+
+Beneficios no UI KIT
+
+Assim como um style guide , o UI KIt/Pattern Library auxilia numa maior produtividade e consistencia para o produto, porém agora abordando um lado que envolve o desenvolvimento. 
+Com uma especificação técnica, o time de front end consegue consumir estes dados e recriar extamanete o que está sendo projetado no design.
+
+## Como é estruturado um documento de UI KIT
+
+![image](https://user-images.githubusercontent.com/52088444/184414144-bf78c333-a79c-421d-9362-ee3e6df6b833.png)
+
+## oNDE DOCUMENTAT O UI Kit (ferramentas )
+
+![image](https://user-images.githubusercontent.com/52088444/184414318-bcb7ad4d-a631-4c3b-a704-0b0b5e2603b1.png)
+
+
+Lembrando que: o que documentar é mais importante do que onde documentar
+
+
+## Design Systema
+
+Na teoria podemos dizer que um DS é um ecossitema de bibliotexa instaláveis com componentes codados a partir de semanticas de design.
+
+Um DS é um documento vivo, sendo evoluindo constatemente de acordo com a necessidde do produto.
+
+![image](https://user-images.githubusercontent.com/52088444/184414927-51cfe2dc-0e15-4285-add0-2392bbb8d4b4.png)
+
+Design System não é um projeto ,, mais sim um produto, sendo de responsabilidade do time de design ou DesignOps.
+
+O DS a principio parece ser o mesmo Style guide , mas apesar de parecerem são diferentes, eles estão conectados, mas não são a mesma coisa.
+
+DS não é mais que um Style guide ou menos que um Pattern Library... Na verdade , é tudo issoe muito mais . Vai além da apresentação visual; é focado no sistema.
+![image](https://user-images.githubusercontent.com/52088444/184415567-335bbd6f-39f8-4939-8879-01223399074d.png)
+
+No DS toda essa camada de ter o componente é muito mais facil, seria copiar e colar
+
+processo de criação do DS:
+
+![image](https://user-images.githubusercontent.com/52088444/184415713-fbb10487-73a4-4fa3-924d-d1fb7bd3bb21.png)
+
+
+O componente só existe depois de codificado.
+- revisar seria testar.
+
+## Exemplos de Ferramentas de DS
+
+Apple human interface
+mICROSOF
+Material Desingner
+Shopify
+
+
+## Design Atomico
+
+Interface Desenvolvida por brad frost. Ele desenvolveu um modelo mental chamado de Atomic Design com o objetivo de nos ajudar a pensar nas interfaces  de usuario de uma maneira fragmentada e ao memso tempo mais completa.
+
+Ou seja todo e qualquer design pode ser destrinchado até chegar a elementos menores e isolados.
 
 
 ## Livros
