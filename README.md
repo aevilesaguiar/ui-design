@@ -147,6 +147,89 @@ Ferramentas que auxilian o dia a dia do designer
 ![image](https://user-images.githubusercontent.com/52088444/184352697-373e0fdd-cfac-4d57-8ffc-944c75c77879.png)
 
 
+Se analisarmos esse processos acima a prte de designer é sempre feita no final.
+
+Ou seja precisamos entender qual o problema e para quem irei resolver.
+
+Depois de toda essa analise e decisão nesse momento podemos passar para as etapas abaixo:
+
+- wireframes: são esboços simples de umas telas de produtos normamente interface de sites e aplicativos; O foco é validar a estrutura, definindo a arquitetura da informação, proposta para a interface antes de definí-la.
+
+
+- Rabiscoframes :é uma mistura de duas palavras, rabisco(sketch) e wireframe. é uma maneira de esboçar uma proposta visual diretamente no papel, de forma simples e rápida.Normalemente criado de forma coletiva , onde a borracha é dispensavel e os rabiscos tomam conta para mostrar a ideia.
+
+- User flow: Além dos  esboços de interfaces, uma das etapas é a representação do fluxo destas interfaces, a fim de entender todos os caminhos e ações que existirão nas telas em que o usuário irá interagir. Neste trabalho nem sempre é necessário que exista uma tela, pode ser um fluxo com nome de telas e listas de ações
+
+![image](https://user-images.githubusercontent.com/52088444/184354382-4b7cf730-3f70-4d40-800f-e9a04aedf33c.png)
+![image](https://user-images.githubusercontent.com/52088444/184354453-5e8ed964-2a1e-4bc7-a435-a6f26c0af6ee.png)
+
+
+- StoryBoard: é como uma história em quadrinhos: em cada ilustração uma cena é descrita, e todas são ordenadas para representar uma história maior. O histoyBoard agrega, visualização, memorização, empatia, engajamento.
+
+![image](https://user-images.githubusercontent.com/52088444/184354694-d26e7bb3-ea5b-4846-bf16-69d9d89cb9e9.png)
+
+## Referencias para consumo de informação
+
+![image](https://user-images.githubusercontent.com/52088444/184354913-bc8cbf6d-008e-4342-b48a-be26db121be3.png)
+
+Melhorar o reportório
+
+- MoodBoard: é um painel de referencia visual que você coletou, incluindo simbolos, formas e cores. Ele ajuda no direcionamento do brand, facil compreensão do tipo de design, auxilia entender padrões que podem ser seguidos.
+
+
+## O que são e quais são os tipos de protótipos?
+
+Protótipo é a representação de um produto , basicamente a primeira unidade, antes de se  produzir em escala.
+
+No mundo digital um protótipo é uma representação de software utilizada para os mesmos fins, validar e coletar informações antes de partir para o desenvolvimento dela. O protótipo não precisa de programação é uma representação visual da interface e seus comportamentos, onde após isso o time de desenvolvimento usará como guia para programar.
+
+Tipos de protótipo:
+
+- baixa fidelidade
+- Alta fidelidade
+
+## Arquitetura da informação
+
+Arquitetura da informação é tornar o complexo claro.
+
+Arquiteura da informação  é a organização de todo um  conteuso/informação de modo a torná-lo compreensivele relevante de acordo com as necessidades dos usuarios/personas a fim de facilitar a sua realização .
+
+O pilares da informação
+Para ter uma boa arquitetura em seu sistema, site ou aplicativo, você deve sempre pensar em 3 pilares principais: conteúdo, usuário e contexto.
+﻿
+Conteúdo (elementos que transmitem a informação, tudo que será usado para entender uma tarefa, seja imagem, planilha e outros, Ex: tudo que será usado para entender uma tarefa, seja ler um livro, cadastrar em um site, preencher um docuemnto)
+
+É a organização de todos os elementos visuais: gráfico, vídeo, texto, imagem, estrutura, taxonomia, sistemas de navegação.
+“Tem que existir uma forma de alocar onde estão as coisas de um jeito que fique fácil para o usuário encontrá-las. A categoria ‘vegano’ em um site de receitas, por exemplo, é uma taxonomia por assunto.”
+Mas a organização visual também vai depender muito da expectativa do usuário. Por exemplo, se você quer ver a política de privacidade de um determinado negócio, você automaticamente vai para o rodapé porque é onde espera encontrar. “Essa é uma estrutura baseada no que o usuário espera.”
+
+Usuário(precisa entender quem utilizará a informação, atraves de pesquisas, personas, etnografias, analise de tarefa, teste de usabilidade)
+
+Todo sistema, site ou app deve ter um objetivo (vender roupas, dar as últimas notícias…), então você deve destacar as informações baseado no que o usuário quer. 
+“Por exemplo, se você tem um site que só vende camisetas, o usuário provavelmente vai querer encontrar camisetas de uma cor específica, então separação por cor é um bom marcador”, diz Giovanni. 
+Da mesma maneira, ao acessar um site de telefonia, é provável que o usuário queira saber sobre os planos para contratar, então deixar essa informação em destaque vai facilitar a usabilidade.
+Para isso, é preciso conhecer bem seu usuário definindo quem são as personas que vão acessar o site, qual a necessidade delas.
+
+Contexto( é basicamente o ambiente, motivo, estratégia que leve a realização de uma tarefa)
+
+“É basicamente a soma do todo relacionado à experiência, ou seja, o ponteiro que indica se a informação presta”, diz Giovanni. 
+Para isso, é muito importante ter de maneira clara qual é o objetivo do seu projeto.
+“Por exemplo, se você tem uma padaria e quer fazer um site, adianta fazer conteúdo sobre horóscopo? Pode dar mais acesso mas não tem contexto. Outro exemplo é Ads no Instagram. A plataforma precisa deles para lucrar mas, ao mesmo tempo, o objetivo do app é ser uma plataforma ‘para ver os stories do crush’, se você colocar um anúncio a cada story, o usuário vai parar de usar seu app.É importante entender o contexto daquele sistema, site ou aplicativo.”
+
+Existem padrões de  criação, acesso armazenamento e apresentação de informações
+ - Sistema de navegação
+ - Organização
+ - rotulação
+ - busca
+
+Entregaveis da Arquiteura da Informação(AI):
+
+- mAPAS DE NAVEGAÇÃO
+- Sitemap
+- carsSorting/Taxonomia(ciência ou técnica de classificação.)
+- wireframes
+- 
+
 
 
 
